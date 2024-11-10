@@ -1,4 +1,4 @@
-import Link from "next/link"
+
 import Nevbar from "./component/Nevbar";
 import Footer from "./component/Footer";
 
